@@ -7,3 +7,6 @@ A basic tank shooter game created using Unity.
  As level is increased, enemy tanks' speed will increase.
  If your tank touches enemy tank, game will be over. 
  Press 'R' to restart the game.
+
+#### Online demo:
+http://tank-shooter-game.netlify.com
