@@ -9,4 +9,4 @@ A basic tank shooter game created using Unity.
 * Press 'R' to restart the game.
 
 #### Online demo:
-http://tank-shooter-game.netlify.app
+https://tank-shooter-game.netlify.app
